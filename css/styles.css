@@ -23,6 +23,10 @@ ul {
   font-family: Arial;
 }
 
+.betterindent {
+  margin-left: inherit;
+}
+
 .floatie {
   float: right;
   margin: 10px;
