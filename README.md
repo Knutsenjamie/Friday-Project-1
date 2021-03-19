@@ -1,7 +1,7 @@
-# _Friday-Project-1_
+# _Jamie's Portfolio_
 
 
-### _Friday Project_
+### _First Friday Project_
 
 ##### By:
 #####  _**Jamie Knutsen**_ _©2021_
@@ -15,7 +15,7 @@
 
 ## Description
 
-_This is lorum ipsum about friday project!_
+_This project was designed to be a portfolio for me reflecting my current work and skills learned at Epicodus._
 
 ## Setup/Instalation Requirements
 you can view this webpage by checking out the url:
