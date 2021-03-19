@@ -34,6 +34,16 @@ ul {
   width: 120px;
 }
 
+.floatie2 {
+  float: right;
+  padding-left: 500px;
+}
+
+.caption {
+  display: block;
+  text-align: center;
+}
+
 img {
   width: 35%;
   height: 35%;
@@ -46,7 +56,7 @@ img {
   border: 5px solid lightslategray;
   padding: 2px;
   margin-bottom: 0.49cm;
-  background-color: rgb(12, 194, 226);
+  background-color: rgb(98, 178, 192);
 }
 
 .centertext {
