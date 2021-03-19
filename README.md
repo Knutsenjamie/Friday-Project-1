@@ -10,8 +10,8 @@
 ## Technologies Used
 
 * _Html_
-* _css_
-* _vsc_
+* _CSS_
+* _Visual Studio Code_
 
 ## Description
 
