@@ -1,3 +1,25 @@
-.uniformtext{
-font-family: Georgia;
+body {
+  background-color: lightblue;
 }
+
+p {
+font-family: Arial;
+}
+
+img {
+  width: 35%;
+  height: 35%;
+  border: 2px solid lightslategray;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%
+}
+
+.centertext {
+  text-align: center;
+}
+
