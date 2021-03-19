@@ -2,25 +2,50 @@ body {
   background-color: lightblue;
 }
 
-header {
-font-family: Arial;
+h1 {
+font-family: Impact;
+}
+
+h2  {
+  font-family: Impact;
+}
+
+h3  {
+  font-family: Arial Narrow Bold;
+  text-align: center;
 }
 
 p {
 font-family: Arial;
 }
 
+.floatie {
+  float: right;
+}
+
 img {
   width: 35%;
   height: 35%;
   border: 10px solid lightslategray;
+  padding: 5px;
+  margin-bottom: 1/2cm;
+}
+
+.Bluebox {
+  border: 5px solid lightslategray;
+  padding: 2px;
+  margin-bottom: 0.49cm;
+  background-color: rgb(12, 194, 226);
 }
 
 .centertext {
   text-align: center;
 }
 
-.float1 {
+.lefttext {
   text-align: left;
 }
+
+
+
 
