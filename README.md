@@ -19,18 +19,13 @@ _This project was designed to be a portfolio for me reflecting my current work a
 
 ## Setup/Instalation Requirements
 you can view this webpage by checking out the url:
-<!-- add url when a gh-pages branch is added -->
+https://knutsenjamie.github.io/Friday-Project-1/
 1. Open terminal
 2. Input these commands into terminal's command line:
 
 * cd desktop
 * git clone https://github.com/Knutsenjamie/Friday-Project-1.git
 * code .
-
-## Known Bugs
-
-*_gh-pages branch needed_
-
 
 ## Licensing
 
