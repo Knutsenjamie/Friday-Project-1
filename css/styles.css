@@ -36,12 +36,8 @@ ul {
 
 .floatie2 {
   float: right;
-  padding-left: 500px;
-}
-
-.caption {
-  display: block;
-  text-align: center;
+  height: 500px;
+  width: 400px;
 }
 
 img {
@@ -50,11 +46,12 @@ img {
   border: 10px solid lightslategray;
   padding: 5px;
   margin-bottom: 1/2cm;
+  margin-left: 25px;
 }
 
 .Bluebox {
   border: 5px solid lightslategray;
-  padding: 2px;
+  padding: 5px;
   margin-bottom: 0.49cm;
   background-color: rgb(98, 178, 192);
 }
