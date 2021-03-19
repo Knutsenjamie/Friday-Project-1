@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: powderblue;
 }
 
 h1 {
@@ -17,6 +17,10 @@ h3  {
 
 p {
 font-family: Arial;
+}
+
+ul {
+  font-family: Arial;
 }
 
 .floatie {
@@ -55,6 +59,7 @@ img {
 .lefttext {
   text-align: left;
 }
+
 
 
 
