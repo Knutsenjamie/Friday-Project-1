@@ -17,8 +17,8 @@
 
 _This project was designed to be a portfolio for me reflecting my current work and skills learned at Epicodus._
 
-## Setup/Instalation Requirements
-you can view this webpage by checking out the url:
+## Setup/Installation Requirements
+_You can view this webpage by checking out the url:_
 https://knutsenjamie.github.io/Friday-Project-1/
 1. Open terminal
 2. Input these commands into terminal's command line:
