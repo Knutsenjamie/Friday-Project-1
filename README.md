@@ -21,7 +21,7 @@ _This project was designed to be a portfolio for me reflecting my current work a
 you can view this webpage by checking out the url:
 <!-- add url when a gh-pages branch is added -->
 1. Open terminal
-2. input these commands into command line:
+2. Input these commands into terminal's command line:
 
 * cd desktop
 * git clone https://github.com/Knutsenjamie/Friday-Project-1.git
