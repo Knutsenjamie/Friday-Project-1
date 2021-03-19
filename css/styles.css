@@ -2,6 +2,10 @@ body {
   background-color: lightblue;
 }
 
+header {
+font-family: Arial;
+}
+
 p {
 font-family: Arial;
 }
@@ -9,17 +13,14 @@ font-family: Arial;
 img {
   width: 35%;
   height: 35%;
-  border: 2px solid lightslategray;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  height: 50%
+  border: 10px solid lightslategray;
 }
 
 .centertext {
   text-align: center;
+}
+
+.float1 {
+  text-align: left;
 }
 

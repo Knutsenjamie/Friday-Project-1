@@ -4,7 +4,7 @@
 ### _Friday Project_
 
 ##### By:
-#####  _**Jamie Knutsen**_
+#####  _**Jamie Knutsen**_ _©2021_
 
 
 ## Technologies Used
